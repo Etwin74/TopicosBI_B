@@ -1,2 +1,9 @@
-# REPOSITORIO GENERAL
-Se trabajara con git para crear un entorno virtual de desarrollo equivalente a google colab
+# REPOSITORIO APREDIZAJE DE PYTHON
+Basisco hasta intermedio
+## Lenguaje de programacion
+-Python
+# Autor
+Derechos Reservados 
+Josue saldaña Fustamante
+###
+####
