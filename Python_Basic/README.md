@@ -1,4 +1,7 @@
 # Python for big Data
+
+Temas de de Python a trabajar
+
 ## Summary
 1. Variables
 2. String
